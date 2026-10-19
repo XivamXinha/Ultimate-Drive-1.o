@@ -1,0 +1,6 @@
+{
+  "name": "Velocity Duel — 2-Player Real-Time Car Racer",
+  "description": "Real-time 2-player isometric retro arcade car racing game with room codes, manual gear shifting, nitro bursts, and synchronized lobbies using Socket.io and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
